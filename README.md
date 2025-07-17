@@ -31,7 +31,5 @@ Train and evaluate a machine learning model to classify whether a person has aus
 
 ## Results
 - Accuracy: Model produced result with an accuracy of 0.9574468085106383
-- 
-    
-     
+
 
