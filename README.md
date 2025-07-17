@@ -1,7 +1,6 @@
 # Autisme Classifier Using Random Forest
 
 ## Files
-## Files
 - autism_screening.csv: Dataset used to train and evaluate the model.
 - main.ipynb: Jupyter notebook that implements a Random Forest Classifier for autism screening.
 
