@@ -1,7 +1,7 @@
 # Autisme Classifier Using Random Forest
 
 ## Dataset
-- ** Source: ["autism_screening.csv"](https://www.kaggle.com/competitions/autism-prediction/data)
+- ** Source: ["autism_screening.csv"] (https://www.kaggle.com/competitions/autism-prediction/data)
 - ** Features:
   - A1-A10 scores --> Each item is an answer to the "Autism Spectrum Quotient (AQ) 10 item screening tool [Source: https://embrace-autism.com/aq-10/#test]". However, this tool traditionally gives four response options (Definitely Agree, Slightly Agree, Slightly Disagree, Definitely Disagree). These have been translated to binary values (0 and 1) in the following manner:
     - A1: 1 if Definitely/Slightly Agree, 0 otherwise 
